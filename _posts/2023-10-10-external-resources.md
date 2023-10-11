@@ -2,9 +2,16 @@ This index is sorted by subject. **Background** will usually include resources w
 
 ## General
 
+### Background
+
+#### Practice
+
+* [https://regexcrossword.com/]
+
 ### Learning
 
 * [https://tryhackme.com/] Highly guided, highly comprehensive, highly beginner-friendly.
+* [https://www.hacker101.com/] Offers video lessons, if that works better for you.
 
 ### Practice
 
@@ -17,8 +24,9 @@ This index is sorted by subject. **Background** will usually include resources w
     * [https://pwnable.kr/]
     * [https://pwnable.tw/]
     * [https://pwnable.xyz/]
-    * [https://www.hackthissite.org/]
+    * [https://io.netgarage.org/]
     * [https://overthewire.org/wargames/] Not much explicit guidance, but structured in a very careful, slow-rolled way. You may not need much prior knowledge if you're comfortable with self-directed learning.
+
 
 ## Cryptography
 
